@@ -1,0 +1,17 @@
+[
+    {
+        "from": "Alice",
+        "to": "Bob",
+        "filename": "example.txt",
+        "timestamp": "2026-01-12 23:32:27",
+        "data": {
+            "iv": "c242778b090bf8f3",
+            "encrypted_payload": "dfbb7d7bdc15abf4aca2665e27be176db69b2050fbd9d6cc078c6a2c87600ba53cda5bb6dfd200ac2d5cfd9956465e0c6af9529fad3a59da0ad9044938ac3906fe3dea884189bd8b430a",
+            "encrypted_session_key": "e472bbb6905fc0d69ac2d960686cf283",
+            "elgamal_R_point": [
+                79936036529074482277072210161727390351116756610692549733758909063955491734746,
+                51045043158387053286878051038364169373006459450040656327065059771408624510512
+            ]
+        }
+    }
+]
